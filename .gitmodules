@@ -1,0 +1,6 @@
+[submodule "Code-Editor-Backend"]
+	path = Code-Editor-Backend
+	url = https://github.com/BasselAlShaar/Code-Editor-Backend.git
+[submodule "Code-Editor-Frontend"]
+	path = Code-Editor-Frontend
+	url = https://github.com/BasselAlShaar/Code-Editor-Frontend.git
